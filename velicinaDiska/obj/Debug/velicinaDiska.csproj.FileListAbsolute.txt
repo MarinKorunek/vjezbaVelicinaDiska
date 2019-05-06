@@ -1,0 +1,7 @@
+C:\Users\Marin\Desktop\github\vjezbaVelicinaDiska\velicinaDiska\velicinaDiska\bin\Debug\velicinaDiska.exe.config
+C:\Users\Marin\Desktop\github\vjezbaVelicinaDiska\velicinaDiska\velicinaDiska\bin\Debug\velicinaDiska.exe
+C:\Users\Marin\Desktop\github\vjezbaVelicinaDiska\velicinaDiska\velicinaDiska\bin\Debug\velicinaDiska.pdb
+C:\Users\Marin\Desktop\github\vjezbaVelicinaDiska\velicinaDiska\velicinaDiska\obj\Debug\velicinaDiska.csprojAssemblyReference.cache
+C:\Users\Marin\Desktop\github\vjezbaVelicinaDiska\velicinaDiska\velicinaDiska\obj\Debug\velicinaDiska.csproj.CoreCompileInputs.cache
+C:\Users\Marin\Desktop\github\vjezbaVelicinaDiska\velicinaDiska\velicinaDiska\obj\Debug\velicinaDiska.exe
+C:\Users\Marin\Desktop\github\vjezbaVelicinaDiska\velicinaDiska\velicinaDiska\obj\Debug\velicinaDiska.pdb
